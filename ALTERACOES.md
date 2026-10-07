@@ -1,3 +1,3 @@
-# Etapa 0 — configuração inicial
+# 1.º commit — soma
 
-Estrutura base do projecto e pipeline de Integração Contínua com dois jobs: **Testes Unitários** e **Build**.
+Adicionar o teste `somar 2 + 3 deve devolver 5` sem implementar `somar`.

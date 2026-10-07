@@ -51,4 +51,3 @@ jobs:
           name: calculadora-${{ github.sha }}
           path: dist/
           retention-days: 7
-
